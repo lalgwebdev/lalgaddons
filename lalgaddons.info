@@ -1,0 +1,21 @@
+name = LALG Add-ons
+description = The clue's in the name
+package = Core
+base theme = LALG
+core = 7.x
+engine = phptemplate
+
+regions[sidebar_first] = Left sidebar
+regions[sidebar_second] = Right sidebar
+regions[content] = Content
+regions[navigation] = Menu
+regions[footer] = Footer
+regions[header] = Header
+regions[toolbar] = Toolbar
+regions[help] = Help
+
+scripts[] = script-civi.js
+stylesheets[all][] = style-civi.css
+
+
+
