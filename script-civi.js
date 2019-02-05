@@ -1,3 +1,5 @@
+// Various jQuery functions to improve the display
+//
 // *******************  Revert to using $ for jQuery
 (function( $ ) {
 
